@@ -22,6 +22,9 @@ Este proyecto utiliza técnicas de machine learning para la clasificación y el 
 Para ejecutar cada modelo, sigue las instrucciones a continuación desde tu terminal.
 
 1. **Árboles de Decisión:**
-   Ejecuta el archivo `decision.py` para aplicar el modelo de árboles de decisión sobre el conjunto de datos `Data10.xlsx`.
+   Ejecuta los archivos ` `Data10.xlsx`.
    ```bash
    python decision.py
+   kmeans.py
+   svm-1.py
+   svm-2.py
